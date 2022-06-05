@@ -33,7 +33,6 @@ if __name__ == "__main__":
     Mystack.push(2)
     Mystack.push(3)
     Mystack.push(6)
-
     while Mystack.isEmpty() is False:
         print(Mystack.pop())
     
